@@ -27,16 +27,16 @@ const Footer = () => {
                 <Link href='/'>About agency</Link>
               </li>
               <li>
-                <Link href='/'>Our team</Link>
+                <Link href='/'>Markets</Link>
               </li>
               <li>
-                <Link href='/'>Showcase</Link>
+                <Link href='/'>Trading</Link>
+              </li>
+              <li>
+                <Link href='/'>Education</Link>
               </li>
               <li>
                 <Link href='/'>Blog</Link>
-              </li>
-              <li>
-                <Link href='/'>Demo design system</Link>
               </li>
               <li>
                 <Link href='/'>Contact</Link>
@@ -45,13 +45,13 @@ const Footer = () => {
             <ul>
               <h3>SERVICES</h3>
               <li>
-                <Link href='/'>Web Design & Development</Link>
+                <Link href='/'>Forex trading</Link>
               </li>
               <li>
-                <Link href='/'>Branding & Creative Services</Link>
+                <Link href='/'>Education</Link>
               </li>
               <li>
-                <Link href='/'>Digital Marketing</Link>
+                <Link href='/'>Brokerage</Link>
               </li>
               <li>
                 <Link href='/'>E-Commerce</Link>
@@ -85,10 +85,10 @@ const Footer = () => {
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2023 THE SEVEN. ALL RIGHTS RESERVED.</span>
+              <span>© 2024 Letoya. ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
-              <span>GORKCODER COMPANY</span>
+              <span>Gainwisefx</span>
               <span> &nbsp; | &nbsp; </span>
               <span>TERMS & CONDITIONS</span>
             </div>

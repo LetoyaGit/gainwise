@@ -11,7 +11,7 @@ const Agency = () => {
           <div className='heading-title'>
             <TitleSm title='ABOUT AGENCY' /> <br />
             <br />
-            <Title title='The last digital agency you will ever need!' className='title-bg' />
+            <Title title='Why trade with GainwiseFX?' className='title-bg' />
           </div>
 
           <div className='content flex1'>

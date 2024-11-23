@@ -13,12 +13,13 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <TitleLogo title='creative' caption='7' className='logobg' />
-          <h1 className='hero-title'>WE BUILD DIGITAL EXPERIENCES</h1>
+          <h1 className='hero-title'>Release your inner trader
+          </h1>
 
           <div className='sub-heading'>
-            <TitleSm title='WEBSITES' /> <span>.</span>
-            <TitleSm title='BRANDING' /> <span>.</span>
-            <TitleSm title='DIGITAL MARKETING' />
+            <TitleSm title='MARKETS' /> <span>.</span>
+            <TitleSm title='TRADING' /> <span>.</span>
+            <TitleSm title='FX EDUCATION' />
           </div>
         </div>
       </section>
